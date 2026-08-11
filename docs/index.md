@@ -2,6 +2,12 @@
 title: Weekly Sales Report
 ---
 
+# 2026/08/12
+
+[Weekly IT Security Update](./reports/20260812/weekly-secure-update-report.md)
+
+---
+
 # 2026/08/09
 
 [Weekly Technology Updates](./reports/20260809/weekly-tech-update-report.md)
